@@ -287,7 +287,7 @@ http://localhost:8000
 
 ## Lisensi
 
-Hak cipta © 2025 Rahmat Agem Pratama. Seluruh hak cipta dilindungi.
+Hak cipta © 2026 Tim Decode Universitas Dehasen Bengkulu. Seluruh hak cipta dilindungi.
 
 ---
 
