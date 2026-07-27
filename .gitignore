@@ -17,8 +17,6 @@ public/assets/uploaded_materials/*
 public/assets/generated_questions/*
 !public/assets/generated_questions/.gitkeep
 
-# Database export (sensitive data)
-/database-export/
 
 # Logs
 *.log
