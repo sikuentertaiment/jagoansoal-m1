@@ -1,0 +1,11 @@
+{
+  "name": "jagoansoal/app",
+  "description": "jagoansoal - AI Exam Generator",
+  "require": {
+    "mpdf/mpdf": "^8.3",
+    "phpoffice/phpword": "^1.4"
+  },
+  "config": {
+    "vendor-dir": "vendor"
+  }
+}

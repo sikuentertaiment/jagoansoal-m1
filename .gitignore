@@ -1,0 +1,37 @@
+# Environment & Config
+backend/.env
+backend/.env.local
+
+# Dependencies
+/vendor/
+
+# Uploaded user content (gambar soal)
+public/assets/question/images/*
+!public/assets/question/images/.gitkeep
+
+# Uploaded materials
+public/assets/uploaded_materials/*
+!public/assets/uploaded_materials/.gitkeep
+
+# Generated questions files
+public/assets/generated_questions/*
+!public/assets/generated_questions/.gitkeep
+
+# Database export (sensitive data)
+/database-export/
+
+# Logs
+*.log
+
+# Temp files
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
