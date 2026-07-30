@@ -356,7 +356,7 @@
         </div>
       </div>
 
-      <div class="ceo-section">
+      <div class="ceo-section hidden">
         <div class="ceo-card">
           <img src="https://pioneers.my.id/assets/team_pic_ceo.jpeg" alt="CEO" class="ceo-photo" onerror="this.src='https://api.dicebear.com/9.x/pixel-art/svg?seed=gema'">
           <div class="ceo-content">
